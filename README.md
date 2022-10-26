@@ -1,3 +1,3 @@
-# spider_chemspider.com
+# get_chemspider.com
 
 应需求写了爬取数据的脚本，需要提前处理数据以及更改文件路径balabala....
